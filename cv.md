@@ -32,5 +32,7 @@ alert( result );
 + Belarusian State University of Informatics and Radioelectronics
 Bachelor's degree, Radioelectronics
 + My study project: https://github.com/SashaKalina/social-network-React-.git
-
+## English
+---
+English level - A2
 
